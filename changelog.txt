@@ -1,0 +1,4 @@
+*** WooCommerce Backblaze B2 Storage ***
+
+2022-07-11 - version 1.0
+ * First release
